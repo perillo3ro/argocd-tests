@@ -1,2 +1,0 @@
-user: 'nomail@example.com'
-password: 'asd23f4jha23h&s5eNB$&%Fs'
